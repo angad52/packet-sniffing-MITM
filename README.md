@@ -25,10 +25,12 @@ Don't close the terminal during the below processes
 
 ***sudo python arp_spoofing.py***
 
-Enter "Target IP" and "Gateway IP".
+Enter "Target IP" and "Gateway IP" and hit enter.
 
 To check the gateway ip enter ***route -n*** in terminal.
 
 ***sudo python packet_sniffer.py***
 
-Enter the "Interface" on which you want to perform the MITM.
+Enter the "Interface" on which you want to perform the MITM and hit enter.
+
+***Congratulation now you are MITM and see what your target surfing and username and passwords.***

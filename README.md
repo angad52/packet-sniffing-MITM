@@ -19,9 +19,15 @@
 
 ***7. echo 1 > /proc/sys/net/ipv4/ip_forward***
 
+# After installing the above packeges, you are ready for MITM.Just follow these commands.
+
+Don't close the terminal during the below processes
+
 ***sudo python arp_spoofing.py***
 
 Enter "Target IP" and "Gateway IP".
+
+To check the gateway ip enter ***route -n*** in terminal.
 
 ***sudo python packet_sniffer.py***
 

@@ -33,4 +33,4 @@ To check the gateway ip enter ***route -n*** in terminal.
 
 Enter the "Interface" on which you want to perform the MITM and hit enter.
 
-***Congratulation now you are MITM and see what your target surfing and username and passwords.***
+***Congratulation now you are MITM and see what your target is surfing and his username and passwords.***
